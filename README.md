@@ -22,16 +22,16 @@ The following libraries have been imported:
 
 These are the hypotheses that have been formulated:
 
-### H1 : Most fatal shark attacks occur in men.
+ H1 : Most fatal shark attacks occur in men.
 
-### H2.  Most attacks occur in Oceania and South Africa on surfers.
+ H2.  Most attacks occur in Oceania and South Africa on surfers.
 
-### H3. Great white sharks are responsible for most of the attacks occurring in Oceania.
+ H3. Great white sharks are responsible for most of the attacks occurring in Oceania.
 
 CONCLUSIONS:
 
-### H1 : The hypothesis is confirmed. Most fatal shark attacks occur in men.
+ H1 : The hypothesis is confirmed. Most fatal shark attacks occur in men.
 
-### H2.  Thanks to the graphs we can appreciate that most shark attacks occur in North America followed by Oceania. The hypothesis is wrong.
+ H2.  Thanks to the graphs we can appreciate that most shark attacks occur in North America followed by Oceania. The hypothesis is wrong.
 
-### H3. As the graph shows, the majority of shark attacks in Oceania are from white sharks. The hypothesis is confirmed.
+ H3. As the graph shows, the majority of shark attacks in Oceania are from white sharks. The hypothesis is confirmed.
