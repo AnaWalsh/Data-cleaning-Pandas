@@ -1,7 +1,7 @@
 # Data-cleaning-Pandas
 
-In this repository you can find a project that deals with data cleaning by applying different methods and its analysis and subsequent visualization. The goal is to demonstrate if the hypotheses formulated are true.
-The data has been obtained from Kaggle and its theme is the shark attack. 
+In this repository you can find a project that deals with data cleaning by applying different methods and its analysis and subsequent visualization. The goal is to demonstrate if the formulated hypotheses  are true.
+The data has been obtained from Kaggle and its theme is Shark Attacks. 
 The repository is divided into several folders containing the following files:
 
 1. README
