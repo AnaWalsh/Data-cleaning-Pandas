@@ -1,6 +1,7 @@
 # Data-cleaning-Pandas
 
-![foto]('https://github.com/AnaWalsh/Data_Cleaning_Pandas/blob/main/images/shark-icegif-2.gif')
+![foto](https://github.com/AnaWalsh/Data_Cleaning_Pandas/blob/main/images/shark-icegif-2.gif)
+
 
 In this repository you can find a project that deals with data cleaning by applying different methods and its analysis and subsequent visualization. The goal is to demonstrate if the formulated hypotheses  are true.
 The data has been obtained from Kaggle and its theme is Shark Attacks. 
