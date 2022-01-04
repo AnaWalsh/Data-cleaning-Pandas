@@ -18,15 +18,6 @@ The repository is divided into several folders containing the following files:
 - **data_extraction.py**: in this file are the functions used for data cleaning. 
 - **visualization_functions.py**: the purpose of this file was to contain the functions used for data visualization, but in this case, it was not necessary to use any functions. 
 
-
-## Libraries 📚
- 
-[Pandas](https://pandas.pydata.org/docs/)
-
-[Matplotlib](https://matplotlib.org/)
-
-[Seaborn](https://seaborn.pydata.org/)
-
 ## Working plan
 
 **1.Three hypotheses are formulated:**
@@ -53,6 +44,15 @@ The repository is divided into several folders containing the following files:
  H3. As the graph shows, the majority of shark attacks in Oceania are from white sharks. The hypothesis is confirmed.
 
 ![Graph_3](https://github.com/AnaWalsh/Data_cleaning_project/blob/main/images/graph_3.png)
+
+
+## Libraries 📚
+ 
+[Pandas](https://pandas.pydata.org/docs/)
+
+[Matplotlib](https://matplotlib.org/)
+
+[Seaborn](https://seaborn.pydata.org/)
 
 ## To do
 
