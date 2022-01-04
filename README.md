@@ -42,16 +42,16 @@ The repository is divided into several folders containing the following files:
 
  H1: The hypothesis is confirmed. Most fatal shark attacks occur to men.
 
-[Graph_1](...)
+[Graph_1](https://github.com/AnaWalsh/Data_cleaning_project/blob/main/images/graph_1.png)
 
 
  H2:  Thanks to the graphs we can appreciate that most shark attacks occur in North America followed by Oceania. The hypothesis is wrong.
 
-[Graph_2](...)
+[Graph_2](https://github.com/AnaWalsh/Data_cleaning_project/blob/main/images/graph_2.png)
 
  H3. As the graph shows, the majority of shark attacks in Oceania are from white sharks. The hypothesis is confirmed.
- 
-[Graph_3](...)
+
+[Graph_3](https://github.com/AnaWalsh/Data_cleaning_project/blob/main/images/graph_3.png)
 
 ## To do
 
