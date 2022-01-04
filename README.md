@@ -14,9 +14,11 @@ The repository is divided into several folders containing the following files:
 
 - **Cleaning_data.ipynb**: in this file the cleaning methods are applied. The functions that are applied are obtained from the file.
 - **Visualization.ipynb**: in this file data is visualized by means of graphics, using seaborn. 
-- **Folder src**:
-- **data_extraction.py**: in this file are the functions used for data cleaning. 
-- **visualization_functions.py**: the purpose of this file was to contain the functions used for data visualization, but in this case, it was not necessary to use any functions. 
+- **Folder src:**
+
+    **data_extraction.py**: in this file are the functions used for data cleaning. 
+
+    **visualization_functions.py**: the purpose of this file was to contain the functions used for data visualization, but in this case, it was not necessary to use any functions. 
 
 ## Working plan
 
