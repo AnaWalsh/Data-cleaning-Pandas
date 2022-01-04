@@ -4,8 +4,9 @@
 
 ## Goal 🏁
 
-In this repository you can find a project that deals with data cleaning by applying different methods and its analysis and subsequent visualization. The goal is to demonstrate if the formulated hypotheses  are true.
-The data has been obtained from Kaggle and its theme is Shark Attacks. 
+In this repository you can find a project that deals with data cleaning by applying different methods and its analysis and subsequent visualization. 
+
+The data has been obtained from [Kaggle](https://www.kaggle.com/teajay/global-shark-attacks) and its theme is Shark Attacks. 
 
 ## Structure of the project files 
 
@@ -28,7 +29,7 @@ The repository is divided into several folders containing the following files:
 
 ## Working plan
 
-**1.** Three hypotheses are formulated:
+**1.Three hypotheses are formulated:**
 
 **H1:** Most fatal shark attacks occur to men.
 
@@ -36,9 +37,9 @@ The repository is divided into several folders containing the following files:
 
 **H3:** Great white sharks are responsible for most of the attacks occurring in Oceania.
 
-**2.** Explore and clean data
+**2.Explore and clean data**
 
-**3.** Data visualization and conlusions
+**3.Data visualization and conlusions**
 
  H1: The hypothesis is confirmed. Most fatal shark attacks occur to men.
 
